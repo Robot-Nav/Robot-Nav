@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**Robot-Nav/Robot-Nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 **Robot-Nav**，一名热爱技术的开发者。
 
-Here are some ideas to get you started:
+- 🔭 我目前正在研究：机器人导航 / 具身智能 / 软件开发
+- 🌱 我正在学习：具身智能 / 传统导航 / 深度强化学习
+- 👯 我希望能够：与更多开发者交流技术，参与开源项目
+- 📫 如何联系我：通过下方博客或B站（欢迎关注）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 欢迎关注我的技术分享
+
+- 📝 **我的CSDN博客**：[点击进入](https://blog.csdn.net/qq_56908984)
+- 🎥 **我的B站主页**：[点击进入](https://space.bilibili.com/698094809)
+
+> 在这里我会分享学习笔记、项目经验和技术思考，欢迎一起交流成长！
