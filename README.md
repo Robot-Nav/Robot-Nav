@@ -1,5 +1,7 @@
 ## 😊 Hello
 
+
+
 我是 **Robot-Nav**，一名Robot爱好者。
 
 | 类别 | 信息 |
@@ -8,8 +10,6 @@
 | **博客主页** | [点击进入](https://blog.csdn.net/qq_56908984) |
 | **B站主页** | [点击进入](https://space.bilibili.com/698094809) |
 
-<p align="center">
-  <b>
-    🌟 行稳致远，进而有为 🌟
-  </b>
-</p>
+
+ 🌟 行稳致远，进而有为 🌟
+
