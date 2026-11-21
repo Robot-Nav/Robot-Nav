@@ -7,3 +7,9 @@
 | **研究方向** | 具身智能 / AI Robotics Architect / DRL |
 | **博客主页** | [点击进入](https://blog.csdn.net/qq_56908984) |
 | **B站主页** | [点击进入](https://space.bilibili.com/698094809) |
+
+<p align="center">
+  <b>
+    🌟 行稳致远，进而有为 🌟
+  </b>
+</p>
